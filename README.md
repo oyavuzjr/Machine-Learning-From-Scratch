@@ -15,7 +15,7 @@ title: "Machine-Learning-From-Scratch"
             Classification</a>
     </li>
     <li>
-        <a href="https://www.orhanyavuz.com/projects/Machine-Learning-From-Scratch/KNN">K-Nearest Neighbours
+        <a href="https://www.orhanyavuz.com/projects/Machine-Learning-From-Scratch/KNearestNeighbours">K-Nearest Neighbours
             Classifier</a>
     </li>
 </ul>
@@ -25,7 +25,7 @@ title: "Machine-Learning-From-Scratch"
 
 <ul>
     <li>
-        <a href="https://www.orhanyavuz.com/projects/Machine-Learning-From-Scratch/K-Means-Clustering">K-Means
+        <a href="https://www.orhanyavuz.com/projects/Machine-Learning-From-Scratch/KMeansClustering">K-Means
             Clustering</a>
     </li>
 </ul>
