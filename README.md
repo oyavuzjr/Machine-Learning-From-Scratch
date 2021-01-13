@@ -2,8 +2,6 @@
 title: "Machine-Learning-From-Scratch"
 ---
 
-# Machine-Learning-From-Scratch  
-
 <p>This repository is not meant to be used for production purposes. Instead, it attempts to provide step-by-step
     instructions for creating simplified implementations of commonly used Machine Learning Algorithms. </p>
 
